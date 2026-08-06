@@ -17,7 +17,7 @@ Sou professor de Engenharia de Software e pesquisador em IA.
 
 <td>
 
-<image  src="[MyuGG8fULJ9AsKmRV_DVet-XxupJ_jCNsEChyh6zxOU.mp](https://wallpaperaccess.com/full/4910984.gif)" width="250"/>
+<image  src="https://wallpaperaccess.com/full/4910984.gif" width="250"/>
 
 </td>
 
