@@ -17,7 +17,7 @@ Sou professor de Engenharia de Software e pesquisador em IA.
 
 <td>
 
-<img src="MyuGG8fULJ9AsKmRV_DVet-XxupJ_jCNsEChyh6zxOU.mp4" width="250"/>
+<video  src="MyuGG8fULJ9AsKmRV_DVet-XxupJ_jCNsEChyh6zxOU.mp4" width="250"/>
 
 </td>
 
