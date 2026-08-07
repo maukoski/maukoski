@@ -28,5 +28,5 @@ Sou professor de Engenharia de Software e pesquisador em IA. blá blá blá bç�
 
 ***
 
- O que eu faço e Onde estou focando
+ 💻 **O que eu faço e Onde estou focando**
 
