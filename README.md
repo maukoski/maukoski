@@ -5,7 +5,7 @@
 
 <td width="60%">
 
-## Professor e Pesquisador
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&width=600&lines=Professor;Pesquisador;Desenvolvedor;Criador+de+Conteúdo)](...)
 
 Sou professor de Engenharia de Software e pesquisador em IA.
 
