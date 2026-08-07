@@ -12,7 +12,7 @@
 
 Sou **Engenheiro de Computação** e **Mestre em Computação Aplicada à Agricultura**. 
 Em minha pesquisa de mestrado, investiguei o uso de GPUs em computação de alto 
-desempenho, alcançando uma **redução de 54× no tempo de processamento**.
+desempenho, alcançando uma **redução de 54 vezes no tempo de processamento**.
 
 Atualmente, atuo como professor nos cursos de **Engenharia de Software, Análise e 
 Desenvolvimento de Sistemas e Sistemas de Informação**, além de já ter lecionado 
