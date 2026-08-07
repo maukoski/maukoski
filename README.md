@@ -8,7 +8,7 @@
 <td width="100%">
 
 
-Sou professor de Engenharia de Software e pesquisador em IA.
+Sou professor de Engenharia de Software e pesquisador em IA. blá blá blá bçá bnlá blá blá
 
 - 🎓 UEPG
 - 💻 Python | Java | C#
