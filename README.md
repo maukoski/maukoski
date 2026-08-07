@@ -20,11 +20,13 @@ em cursos de **Engenharia Civil**, **Agronomia**, **Engenharia de Produção** e
 
 Como **aluno especial de doutorado**, atualmente aprofundo meus estudos em:
 
+- 🎮 **Desenvolvimento de Jogos** — desde 2015
 - 🤖 **Inteligência Artificial** — desde 2016
 - ⚡ **Computação de Alto Desempenho** — desde 2017
 - 💻 **Engenharia de Software** — desde 2021
 - 🌌 **Astrofísica** — desde 2022
-- 🎮 **Desenvolvimento de Jogos** — desde 2014
+- 🎮 **Design de Jogos** — desde 2024
+
 ![Python](https://img.shields.io/badge/Python-blue)
 </td>
 
