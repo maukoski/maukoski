@@ -18,7 +18,7 @@ Atualmente, atuo como professor nos cursos de **Engenharia de Software, Análise
 Desenvolvimento de Sistemas e Sistemas de Informação**, além de já ter lecionado 
 em cursos de **Engenharia Civil**, **Agronomia**, **Engenharia de Produção** e **Engenharia Mecânica**.
 
-Como **aluno especial de doutorado**, atualmente aprofundo meus estudos em:
+Eu aprofundo meus estudos em:
 
 - 🎮 **Desenvolvimento de Jogos** — desde 2015
 - 🤖 **Inteligência Artificial** — desde 2016
