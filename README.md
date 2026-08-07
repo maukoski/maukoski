@@ -20,10 +20,7 @@ Sou Engenheiro de Computação e Mestre em Computação Aplicada à Agricultura.
 <td>
 
 <image  src="https://wallpaperaccess.com/full/4910984.gif" width="250"/>
-
-
-
-<image  src="https://wallpaperaccess.com/full/4910984.gif" width="250"/>
+<image  src="https://images.steamusercontent.com/ugc/2000196598082400934/2105D4B742CAA07F3A79DACD8B9975F93E54F632/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="250"/>
 </td>
 
 </tr>
