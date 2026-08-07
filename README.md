@@ -1,5 +1,6 @@
 <h1>Olá! Eu sou William 👋</h1>
 
+<h1>
 <table>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=150&speed=50&deleteSpeed=50&color=58A6FF&width=700&lines=Professor;Pesquisador;Desenvolvedor;Especialista+em+IA;Software+Engineer">
 <tr>
@@ -24,6 +25,7 @@ Sou professor de Engenharia de Software e pesquisador em IA.
 </tr>
 
 </table>
+</h1>
 
 
 ***
