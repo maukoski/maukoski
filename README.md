@@ -5,7 +5,7 @@
 
 <td width="60%">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=300&speed=70&deleteSpeed=50&color=58A6FF&width=700&lines=Professor;Pesquisador;Desenvolvedor;Especialista+em+IA;Software+Engineer">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=150&speed=50&deleteSpeed=50&color=58A6FF&width=700&lines=Professor;Pesquisador;Desenvolvedor;Especialista+em+IA;Software+Engineer">
 
 Sou professor de Engenharia de Software e pesquisador em IA.
 
