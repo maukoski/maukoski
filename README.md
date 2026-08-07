@@ -8,7 +8,8 @@
 <td width="100%">
 
 
-Sou professor de Engenharia de Software e pesquisador em IA. blá blá blá bçá bnlá blá blá
+Sou professor de Engenharia de Software; Analise e Desenvolvimento de Sistemas; Sistemas da informação. E já atuei nos cursos de Engenharia Civil; Agronomia; Engenharia de Produção; engenharia Mecânica. 
+Atualmente curso doutorado como aluno especial estudando a inteligência artificial (desde 2016); a computação de alto desempenho(desde 2017); astrofísica (desde 2022); a engenharia de software (desde 2021) e desenvolvimento de jogos (2014). 
 
 - 🎓 UEPG
 - 💻 Python | Java | C#
