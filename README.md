@@ -7,9 +7,10 @@
 
 <td width="100%">
 
+Sou engenheiro de computação por formação e mestre em computação aplicada à agricultura, minha tese de mestrado abordou o ganho no tempo de processamento com a utilização de placas de vídeos obtendo uma diminuição no tempo em 54 vezes.
 
-Sou professor de Engenharia de Software; Analise e Desenvolvimento de Sistemas; Sistemas da informação. E já atuei nos cursos de Engenharia Civil; Agronomia; Engenharia de Produção; engenharia Mecânica. 
-Atualmente curso doutorado como aluno especial estudando a inteligência artificial (desde 2016); a computação de alto desempenho(desde 2017); astrofísica (desde 2022); a engenharia de software (desde 2021) e desenvolvimento de jogos (2014). 
+
+Atualmente sou professor de Engenharia de Software; Analise e Desenvolvimento de Sistemas; Sistemas da informação. E já atuei nos cursos de Engenharia Civil; Agronomia; Engenharia de Produção; engenharia Mecânica. Estou cursando o doutorado como aluno especial estudando a inteligência artificial (desde 2016); a computação de alto desempenho(desde 2017); astrofísica (desde 2022); a engenharia de software (desde 2021) e desenvolvimento de jogos (2014). 
 
 - 🎓 UEPG
 - 💻 Python | Java | C#
