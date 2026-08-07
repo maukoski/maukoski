@@ -7,10 +7,10 @@
 
 <td width="100%">
 
-Sou engenheiro de computação por formação e mestre em computação aplicada à agricultura, minha tese de mestrado abordou o ganho no tempo de processamento com a utilização de placas de vídeos obtendo uma diminuição no tempo em 54 vezes.
+Sou Engenheiro de Computação e Mestre em Computação Aplicada à Agricultura. Em minha pesquisa de mestrado, investiguei o uso de GPUs para computação de alto desempenho, alcançando uma redução de 54 vezes no tempo de processamento.
 
-
-Atualmente sou professor de Engenharia de Software; Analise e Desenvolvimento de Sistemas; Sistemas da informação. E já atuei nos cursos de Engenharia Civil; Agronomia; Engenharia de Produção; engenharia Mecânica. Estou cursando o doutorado como aluno especial estudando a inteligência artificial (desde 2016); a computação de alto desempenho(desde 2017); astrofísica (desde 2022); a engenharia de software (desde 2021) e desenvolvimento de jogos (2014). 
+Atualmente, atuo como professor nas áreas de **Engenharia de Software**, **Análise e Desenvolvimento de Sistemas** e **Sistemas de Informação**. Ao longo da minha experiência docente, também lecionei para cursos de **Engenharia Civil**, **Agronomia**, **Engenharia de Produção** e **Engenharia Mecânica**.
+Como aluno especial de doutorado, venho aprofundando meus estudos em Inteligência Artificial(desde 2016), além de Computação de Alto Desempenho(desde 2017), Engenharia de Software(2021), Astrofísica(2022) e Desenvolvimento de Jogos(2024).
 
 - 🎓 UEPG
 - 💻 Python | Java | C#
