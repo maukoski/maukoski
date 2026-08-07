@@ -61,7 +61,8 @@ meu TCC e, atualmente, fazem parte da minha atuação docente por meio da discip
 **produto de design**: como projetar experiências de qualidade e compreender sua relação
 com seus consumidores. Nesse contexto, comecei a estudar **arte digital**, com especial
 interesse por **pixelscape**, buscando compreender também a dimensão visual dos jogos.
+Pretendo futuramente aprender teoria musical, pelo mesmo motivo.
 
 Meu objetivo é aproximar os **jogos da academia como uma forma de expressão completa**,
-explorando não apenas seus aspectos tecnológicos, educacionais ou de design, mas o jogo
+explorando não apenas seus aspectos educacionais, mas o jogo
 como uma obra que integra arte, tecnologia, narrativa e experiência.
