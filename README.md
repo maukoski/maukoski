@@ -7,7 +7,7 @@
 
 <td width="100%">
 
-Sou Engenheiro de Computação e Mestre em Computação Aplicada à Agricultura. Em minha pesquisa de mestrado, investiguei o uso de GPUs para computação de alto desempenho, alcançando uma redução de 54 vezes no tempo de processamento.
+Sou Engenheiro de Computação e Mestre em Computação Aplicada à Agricultura. Em minha pesquisa de mestrado, investiguei o uso de GPUs para computação de alto desempenho, **alcançando uma redução de 54 vezes no tempo de processamento**.
 
 Atualmente, atuo como professor nas áreas de **Engenharia de Software**, **Análise e Desenvolvimento de Sistemas** e **Sistemas de Informação**. Ao longo da minha experiência docente, também lecionei para cursos de **Engenharia Civil**, **Agronomia**, **Engenharia de Produção** e **Engenharia Mecânica**.
 Como aluno especial de doutorado, venho aprofundando meus estudos em Inteligência Artificial(desde 2016), além de Computação de Alto Desempenho(desde 2017), Engenharia de Software(2021), Astrofísica(2022) e Desenvolvimento de Jogos(2024).
