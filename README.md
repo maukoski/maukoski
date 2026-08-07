@@ -12,7 +12,7 @@ Sou professor de Engenharia de Software e pesquisador em IA.
 - 🎓 UEPG
 - 💻 Python | Java | C#
 - 🤖 IA | RAG | LLM
-
+![Python](https://img.shields.io/badge/Python-blue)
 </td>
 
 <td>
@@ -23,4 +23,3 @@ Sou professor de Engenharia de Software e pesquisador em IA.
 
 </tr>
 </table>
-Teste
