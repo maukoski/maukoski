@@ -43,8 +43,6 @@ Eu aprofundo meus estudos nos seguintes campos:
 ***
 
  ## 💻 **O que eu faço e Onde estou focando**
- R## 🔬 O que eu faço e onde estou focando
-
 A migração de grande parte da minha atuação docente para o formato remoto me permitiu
 retomar projetos que estavam em espera, entre eles o desenvolvimento de **três frameworks
 voltados à Inteligência Artificial**. Um deles já está concluído, com resultados atualmente
