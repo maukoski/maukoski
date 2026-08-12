@@ -48,9 +48,9 @@ voltados à Inteligência Artificial**. Um deles já está concluído, com resul
 em processo de submissão a periódicos, apresentando também resultados promissores em
 problemas do mundo real.
 
-- **Astrofísica e Astronomia Observacional:**  Um assunto que desperta meu interesse desde a infância, e posso dedicar meu doutorado a ele.
-- **Jogos:** Foram o tema de meu TCC, mas recentemente passei a ministrar a disciplina de jogos digitais, podendo abordar não apenas o desenvolvimento prático, mas principalmente nos jogos como produto de design e artigos de arte.
-- **Arte:** Atualmente dedico-me a arte, com interesse especial na estética **pixelscap**
+- **Astrofísica e Astronomia Observacional:**  Um assunto que desperta meu interesse desde a infância, e integro com meu meu doutorado.
+- **Jogos:** Foram o tema de meu TCC, mas recentemente passei a ministrar a disciplina de jogos digitais, podendo abordar não apenas o desenvolvimento prático, mas principalmente os jogos como produto de design e artigos de arte.
+- **Arte:** Atualmente dedico-me a aprender arte digital, com interesse especial na estética **pixelscap**
 
 ***
 ## **Tecnologias e Ferramentas**
