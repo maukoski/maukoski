@@ -27,7 +27,6 @@ Eu aprofundo meus estudos nos seguintes campos:
 - 🌌 **Astrofísica** — desde 2022
 - 🎮 **Design de Jogos** — desde 2024
 
-![Python](https://img.shields.io/badge/Python-blue)
 </td>
 
 <td>
@@ -64,3 +63,7 @@ Pretendo futuramente aprender teoria musical, pelo mesmo motivo.
 Meu objetivo é aproximar os **jogos da academia como uma forma de expressão completa**,
 explorando não apenas seus aspectos educacionais, mas o jogo
 como uma obra que integra arte, tecnologia, narrativa e experiência.
+
+***
+Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-blue)
