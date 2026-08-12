@@ -65,5 +65,5 @@ explorando não apenas seus aspectos educacionais, mas o jogo
 como uma obra que integra arte, tecnologia, narrativa e experiência.
 
 ***
-Tecnologias e Ferramentas
+## **Tecnologias e Ferramentas**
 ![Python](https://img.shields.io/badge/Python-blue)
