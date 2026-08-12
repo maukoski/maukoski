@@ -48,21 +48,9 @@ voltados à Inteligência Artificial**. Um deles já está concluído, com resul
 em processo de submissão a periódicos, apresentando também resultados promissores em
 problemas do mundo real.
 
-Paralelamente, venho direcionando parte dos meus estudos para **Astrofísica e Astronomia
-Observacional**, interesses que remontam à minha infância e que hoje se conectam diretamente
-aos meus estudos de doutorado.
-
-Os **jogos** também ocupam um lugar central na minha trajetória acadêmica. Foram tema do
-meu TCC e, atualmente, fazem parte da minha atuação docente por meio da disciplina de
-**Jogos Digitais**. Meu interesse está menos na implementação e mais nos jogos como
-**produto de design**: como projetar experiências de qualidade e compreender sua relação
-com seus consumidores. Nesse contexto, comecei a estudar **arte digital**, com especial
-interesse por **pixelscape**, buscando compreender também a dimensão visual dos jogos.
-Pretendo futuramente aprender teoria musical, pelo mesmo motivo.
-
-Meu objetivo é aproximar os **jogos da academia como uma forma de expressão completa**,
-explorando não apenas seus aspectos educacionais, mas o jogo
-como uma obra que integra arte, tecnologia, narrativa e experiência.
+**Astrofísica e Astronomia Observacional:**  Um assunto que desperta meu interesse desde a infância, e posso dedicar meu doutorado a ele.
+**Jogos:** Foram o tema de meu TCC, mas recentemente passei a ministrar a disciplina de jogos digitais, podendo abordar não apenas o desenvolvimento prático, mas principalmente nos jogos como produto de design e artigos de arte.
+**Arte:** Atualmente dedico-me a arte, com interesse especial na estética **pixelscap**
 
 ***
 ## **Tecnologias e Ferramentas**
